@@ -1,5 +1,5 @@
 /* Import fonts */
-@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic);
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic);
 
 /* ******************************
  For the github btn
@@ -101,7 +101,7 @@ body {
     font-family: 'Lato', sans-serif;
     padding: 0px !important;
     margin: 0px !important;
-    font-size:16px !important;    
+    font-size:16px !important;
     font-weight: 300;
 }
 
@@ -267,13 +267,13 @@ ul.sidebar-menu li.active a, ul.sidebar-menu li a:hover, ul.sidebar-menu li a:fo
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;
-    transition: all 0.3s ease;        
+    transition: all 0.3s ease;
 }
 ul.sidebar-menu li a:hover, ul.sidebar-menu li a:focus {
     border-bottom: 1px solid #ff4088;
 }
 /*ul.sidebar-menu li.active a,*/ ul.sidebar-menu .sub-menu li.active a{
-    border-bottom: 1px solid #ff4088;   
+    border-bottom: 1px solid #ff4088;
 }
 
 ul.sidebar-menu li a i {
@@ -291,10 +291,10 @@ ul.sidebar-menu li.active a i {
 }
 
 
-#sidebar ul > li > a .menu-arrow { 
-    float: right;    
+#sidebar ul > li > a .menu-arrow {
+    float: right;
     margin-right: 8px;
-    margin-top: 6px;    
+    margin-top: 6px;
 }
 
 #main-content {
